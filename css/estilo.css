@@ -1,1 +1,14 @@
 
+body  { background: #f5f3f3;}
+
+/* codigo para centralizar os elementos verticalmente na tela */
+.container-edit { height: 100vh; display: flex; flex-direction: column;justify-content: center;}
+
+.container-edit h4 { font-weight: 800; color:#23A0B2}
+
+.container-edit a { color:#23A0B2; ;}
+
+/* .campo-login { border: 1px solid #FFA865; padding: 20px;} */
+
+.btn-config { background-color:#23A0B2; color: #fff; width: 100%; height: 40px;}
+
